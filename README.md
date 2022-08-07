@@ -1,3 +1,3 @@
 # maven-project
 
-Simple Maven Project
+this is a Simple Maven Project created for practice CI/CD. 
